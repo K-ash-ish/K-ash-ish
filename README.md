@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K-ash-ish
 - 👀 I’m interested in ... Android Dev/Android Custom Roms/Web Develeopment/ Ethical Hacking :smiley:
-- 🌱 I’m currently learning ... C++/DS Algo
+- 🌱 I’m currently learning ... Web Development /DS Algo
 - 📫 How to reach me ...@linkedIn- https://www.linkedin.com/in/kashish-sondhiya-969120198/
 
 <!---

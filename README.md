@@ -11,7 +11,7 @@ ___
 
 ### - ❄️I'm currently a part of **[SWOC](https://swoc.scriptindia.org/#/)**
 
-### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)**
+<!-- ### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)** -->
 
 ___
 
@@ -33,8 +33,8 @@ ___
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kashish's streak" src="https://github-readme-streak-stats.herokuapp.com?user=K-ash-ish&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </div>
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=K-ash-ish&bg_color=000000&color=ffffff&line=5064fb&point=fcfcfc&area=true&hide_border=true)
+<!-- 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=K-ash-ish&bg_color=000000&color=ffffff&line=5064fb&point=fcfcfc&area=true&hide_border=true) -->
 
 
 ___

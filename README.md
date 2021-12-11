@@ -23,12 +23,11 @@
 
 [![Kashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=K-ash-ish&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- ----------- GITHUB STATS SECTION END ------------ -->
-
 ## Connect with me:
 <div align="center">
+  
+<a href = "https://www.linkedin.com/in/kashish-sondhiya-969120198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/KashishSo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 
 </div>

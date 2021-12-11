@@ -9,7 +9,7 @@
 
 ### - ❄️I'm currently a part of **[SWOC](https://swoc.scriptindia.org/#/)**
 
-### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)**
+<!-- ### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)** -->
 
 
 ___

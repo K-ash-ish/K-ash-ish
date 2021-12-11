@@ -2,9 +2,6 @@
 <img src = "https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&size=30&center=true&width=600&height=100&lines=Hi%2C+%F0%9F%91%8B+I'm+Kashish"/>
 </div>
 
-___
-
-
 ## 🙋‍♂️ About Me
 
 ### - 🔭 I’m currently learning **Web Development** 
@@ -14,9 +11,6 @@ ___
 <!-- ### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)** -->
 
 ___
-
-
-## 🚀 Languages and Tools:
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -36,8 +30,6 @@ ___
 <!-- 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=K-ash-ish&bg_color=000000&color=ffffff&line=5064fb&point=fcfcfc&area=true&hide_border=true) -->
 
-
-___
 
 ## Connect with me:
 <div align="center">

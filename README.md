@@ -21,7 +21,7 @@ ___
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=react" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K-ash-ish&show_icons=true&count_private=true&theme=react" />
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=K-ash-ish&theme=react" />
 
@@ -35,7 +35,5 @@ ___
 ## Connect with me:
 <div align="center">
 
-<a href = "https://www.linkedin.com/in/kashish-sondhiya-969120198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/KashishSo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </div>

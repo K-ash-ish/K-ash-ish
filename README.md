@@ -2,8 +2,6 @@
 <img src = "https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&size=30&center=true&width=600&height=100&lines=Hi%2C+%F0%9F%91%8B+I'm+Kashish"/>
 </div>
 
-___
-
 
 ## 🙋‍♂️ About Me
 
@@ -12,8 +10,6 @@ ___
 ### - ❄️I'm currently a part of **[SWOC](https://swoc.scriptindia.org/#/)**
 
 ### - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/kashish-sondhiya-969120198/)**
-
-___
 
 
 ## 🚀 Languages and Tools:
@@ -30,7 +26,6 @@ ___
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
-___
 
 ## Connect with me:
 <div align="center">

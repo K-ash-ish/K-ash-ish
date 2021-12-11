@@ -35,9 +35,7 @@ ___
 ## Connect with me:
 <div align="center">
 
-[twitter]: https://twitter.com/KashishSo
-[linkedin]: https://www.linkedin.com/in/kashish-sondhiya-969120198/
-[github]:https://github.com/K-ash-ish
-[gmail]:mailto:kashishsondhiya@gmail.com
+<a href = "https://www.linkedin.com/in/kashish-sondhiya-969120198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/KashishSo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </div>
